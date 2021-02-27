@@ -50,6 +50,78 @@ These instructions will get you a copy of the project up and running on your loc
 * Solidity: v0.4.24 
 * Truffle: v5.0.25 
 
+## Contract Address on Rinkeby
+https://rinkeby.etherscan.io/address/0x64b39d7af3926d2dcc8da02cb4dd4d831c9d8840
+## Transaction ID And Contact Address
+
+### migration
+* Transaction hash: 0x49ed8e53ecb5348b2ec3a5a07338bf7d5988911d952bdf97a7d721adff83deb3
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0x6a95d3bd134863c5bc12b0effbde79583aeaa39e
+* Gas price: 0.00000001 Ether
+* Gas used: 238,594
+* value sent: 0
+
+
+### Farmer Role
+* Transaction hash: 0x49ed8e53ecb5348b2ec3a5a07338bf7d5988911d952bdf97a7d721adff83deb3
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0x36df780ef2e7b4ba372af8c397f25a7bc8f17664
+* Gas price: 0.00000001 Ether
+* Gas used: 336,027 
+* value sent: 0
+
+### Distributor Role
+* Transaction hash: 0xfb48695d931ad30c1a2cd9cc3b28a968320e2fea7aa0c22fc329b7fc54b6df97
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0x7106e75ea5167bc640dd8b3d6bd8112b5b4bb560
+* Gas price: 0.00000001 Ether
+* Gas used: 336,111 
+* value sent: 0
+
+### Reatiler Role
+* Transaction hash: 0x32a38f58d355c8d6b06cac00e33ef81a659b3d1dc7a548dd7b366a16dd8ba963
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0xa5c958a38c73c856bb86443afa679e88b6f70068
+* Gas price: 0.00000001 Ether
+* Gas used: 336,087 
+* value sent: 0
+
+
+### Consumer Role
+* Transaction hash: 0xa61f65b571270dedf4958a3540234b588f157691ca87dd8f847000218b0d33d8
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0x267e1e40f7bae8983893f7654f66a441abb2f2e9
+* Gas price: 0.00000001 Ether
+* Gas used: 336,051  
+* value sent: 0
+
+### Supply Chain
+* Transaction hash: 0xd79ba8b2d776eaaec1372ec4349aa7dd4464b2143073263b7739e85cc2836066
+
+* Account: 0x2b90aa179ad4c8933949d363018dec91d32c7602
+
+* Contract Address: 
+0x64b39d7af3926d2dcc8da02cb4dd4d831c9d8840
+* Gas price: 0.00000001 Ether
+* Gas used: 2,772,199  
+* value sent: 0
+
 ### Prerequisites
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
